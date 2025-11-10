@@ -1,3 +1,9 @@
+DESPLIEGUE: 
+
+<img width="1918" height="956" alt="image" src="https://github.com/user-attachments/assets/d63ab2bb-c3bc-4002-bf91-46dcb5a85be5" />
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
